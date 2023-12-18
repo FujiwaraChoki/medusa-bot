@@ -105,4 +105,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-    BOT.polling()
+    BOT.infinity_polling()
