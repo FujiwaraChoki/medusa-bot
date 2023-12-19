@@ -1,6 +1,6 @@
 # MedusaAI
 
-> A telegram-based AI Chatbot (Still in development)
+> A telegram-based AI Chatbot (**Still in development**)
 
 ## Introduction
 
